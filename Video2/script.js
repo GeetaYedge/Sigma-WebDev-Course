@@ -1,0 +1,1 @@
+alert("Welcome to Geets's first website")
